@@ -1,0 +1,7 @@
+.character {
+    background-color: red;
+    height: 70px;
+    width: 40px;
+    position: absolute;
+    bottom: 0px;
+}
